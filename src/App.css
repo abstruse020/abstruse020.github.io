@@ -1,0 +1,8 @@
+body {
+  background-image: url('/background.jpg');
+  /* background-color: black; */
+  background-size: cover;
+  height: 100vh;
+  color: #FFFFFF;
+  overflow-x: hidden;
+}
